@@ -2,10 +2,10 @@
 
 <!--![snake gif](https://github.com/lucasarasa/lucasarasa/blob/output/github-contribution-grid-snake.gif)-->
 
-<div align="center">
+<!--<div align="center">
   <a href="https://github.com/lucasarasa"><img height="150em" src="https://github-readme-stats.vercel.app/api?username=lucasarasa&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/> 
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasarasa&layout=compact&langs_count=16&theme=synthwave"/>
-
+-->
   <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucasarasa/lucasarasa/output/github-contribution-grid-snake-dark.svg">
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucasarasa/lucasarasa/output/github-contribution-grid-snake.svg">

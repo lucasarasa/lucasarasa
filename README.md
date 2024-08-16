@@ -3,7 +3,7 @@
 <!--![snake gif](https://github.com/lucasarasa/lucasarasa/blob/output/github-contribution-grid-snake.gif)-->
 
 <div align="center">
-  <a href="https://github.com/lucasarasa"><img height="150em" src="https://github-readme-stats.vercel.app/api?username=lucasarasa&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/> 
+  <a href="https://github.com/R3nataAguiar"><img height="150em" src="https://github-readme-stats.vercel.app/api?username=R3nataAguiar&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/> 
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasarasa&layout=compact&langs_count=16&theme=synthwave"/>
 
   <picture>

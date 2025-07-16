@@ -28,7 +28,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasarasa&show_icons=true&theme=shadow_red"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasarasa&layout=compact&langs_count=6&theme=shadow_red" />
 </a>
----
 
 ## Tecnologias e linguagens 💻
 

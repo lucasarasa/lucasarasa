@@ -1,6 +1,6 @@
-<h1 align="center">Olá! Eu sou o Lucas Sarasa 🚀</h1>
+<h1>Olá! Eu sou o Lucas Sarasa 🚀</h1>
 
-<p align="center">
+<p>
   Desenvolvedor Fullstack | Apaixonado por tecnologia | Dev em formação contínua
 </p>
 

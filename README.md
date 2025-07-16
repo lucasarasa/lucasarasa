@@ -1,41 +1,55 @@
-##
+<h1 align="center">Olá! Eu sou o Lucas Sarasa 🚀</h1>
 
-<!--![snake gif](https://github.com/lucasarasa/lucasarasa/blob/output/github-contribution-grid-snake.gif)-->
+<p align="center">
+  Desenvolvedor Fullstack | Apaixonado por tecnologia | Dev em formação contínua
+</p>
 
-<!--<div align="center">
-  <a href="https://github.com/lucasarasa"><img height="150em" src="https://github-readme-stats.vercel.app/api?username=lucasarasa&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/> 
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasarasa&layout=compact&langs_count=16&theme=synthwave"/>
--->
+## 🚀 Sobre mim
+- 🎓 Técnico em Análise e Desenvolvimento de Sistemas
+- 🖥️ Graduando em Engenharia de Software
+- 🧠 Conhecimento em Java, Spring Boot, React, Docker, AWS...
+- 💼 Projetos práticos com API REST, Frontend moderno e DevOps
 
-<div style="text-align: center;" align="center">
-  <h3></h3>
-  <br>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lucasarasa&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=0000FF&text_color=FFF&border_radius=3&border_color=0000FF&icon_color=0000FF&theme=jolly" alt="GitHub stats">
+---
+<br>
 
-  <a href="https://github.com/lucasarasa/github-readme-stats">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lucasarasa&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=0000FF&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=0000FF&count_private=true" alt="Most Used Languages">
-  </a>
-</div>
-
-
-  <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucasarasa/lucasarasa/output/github-contribution-grid-snake-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucasarasa/lucasarasa/output/github-contribution-grid-snake.svg">
-<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lucasarasa/lucasarasa/output/github-contribution-grid-snake.svg">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucasarasa/lucasarasa/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucasarasa/lucasarasa/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/lucasarasa/lucasarasa/output/pacman-contribution-graph.svg">
 </picture>
+
+###
+---
+
+
+## 📈 GitHub Stats
+<a href="https://github.com/lucasarasa">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasarasa&show_icons=true&theme=shadow_red"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasarasa&layout=compact&langs_count=6&theme=shadow_red" />
+</a>
+---
+
+## Tecnologias e linguagens 💻
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,java,docker,bash)](https://skillicons.dev)
+
+### 🚀 Frameworks e bibliotecas
+
+[![My Skills](https://skillicons.dev/icons?i=react,spring,mysql,postgres)](https://skillicons.dev)
+
+### ☁️ Cloud & DevOps
+
+[![My Skills](https://skillicons.dev/icons?i=aws,nginx,docker,kubernetes)](https://skillicons.dev)
+
+### 🛠️ Ferramentas de desenvolvimento
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux)](https://skillicons.dev)
+
 
 
 <!--
-**lucasarasa/lucasarasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 📊 Atividade recente
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LucasSarasa&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 -->
+![Wave Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)

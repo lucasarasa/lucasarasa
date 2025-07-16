@@ -52,4 +52,5 @@
 ## 📊 Atividade recente
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LucasSarasa&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 -->
-![Wave Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+![Wave Footer](https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=100&section=footer)
+

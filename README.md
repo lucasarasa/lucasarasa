@@ -31,11 +31,15 @@
 
 ## Tecnologias e linguagens 💻
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,java,docker,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,java,docker,bash,nodejs,nextjs,tailwind)](https://skillicons.dev)
 
 ### 🚀 Frameworks e bibliotecas
 
-[![My Skills](https://skillicons.dev/icons?i=react,spring,mysql,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,spring,nodejs)](https://skillicons.dev)
+
+### 🗄️ Bancos de Dados
+
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres&theme=dark)](https://skillicons.dev)
 
 ### ☁️ Cloud & DevOps
 

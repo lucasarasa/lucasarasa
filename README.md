@@ -1,7 +1,7 @@
 <h1>Olá! Eu sou o Lucas Sarasa 🚀</h1>
 
 <p>
-  Desenvolvedor Fullstack | Apaixonado por tecnologia | Dev em formação contínua
+  Desenvolvedor Fullstack | Em constante evolução | Foco em resultado
 </p>
 
 ## 🚀 Sobre mim

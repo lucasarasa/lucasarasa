@@ -7,7 +7,7 @@
 ## 🚀 Sobre mim
 - 🎓 Técnico em Análise e Desenvolvimento de Sistemas
 - 🖥️ Graduando em Engenharia de Software
-- 🧠 Conhecimento em Java, Spring Boot, Node.js, React, Docker e AWS...
+- 🧠 Experiência com React, Next.js, TypeScript, Node.js, Java, Spring Boot, Docker e AWS
 - 💼 Projetos práticos com API REST, Frontend moderno e DevOps
 
 ---

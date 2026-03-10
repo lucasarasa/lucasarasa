@@ -67,9 +67,9 @@ Se quiser trocar uma ideia, colaborar ou tiver alguma dúvida, fique à vontade 
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 ![Swagger](https://img.shields.io/badge/-Swagger-333333?style=flat&logo=swagger)
 
-<h2>🚀 &nbsp;Estatísticas do GitHub</h2>
+<!-- <h2>🚀 &nbsp;Estatísticas do GitHub</h2>
 
-![Lucas GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=dracula)
+![Lucas GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucasarasa&show_icons=true&theme=dracula) -->
 
 <h2>👾 &nbsp;Atividade</h2>
 

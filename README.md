@@ -52,6 +52,7 @@ Se quiser trocar uma ideia, colaborar ou tiver alguma dúvida, fique à vontade 
 <h3>⚙️ &nbsp;Back-end & Bancos de Dados</h3>
 
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![Fastify](https://img.shields.io/badge/-Fastify-333333?style=flat&logo=fastify)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-333333?style=flat&logo=springboot)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
